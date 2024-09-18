@@ -14,3 +14,5 @@ We are familiar with the significant impact of Martin Luther King's "I Have a Dr
 ![chart (2)](https://github.com/user-attachments/assets/f77fb27b-f532-4f1c-9747-519ab8cb6090)
 
 In Ted Cruz's marathon speech against ObamaCare, he opted not to yield for questions or interruptions from his colleagues, which allowed him to maintain control of the floor and speak uninterrupted throughout the entire duration. Interestingly, the phrase "do not yield" appeared quite frequently in his remarks, outnumbering references to terms like "the people" and "Texans".
+
+You can find a complete analysis of Ted Cruz's marathon in files c 1 to 5.txt. Thank you for visiting my page; I really appreciate your time!
